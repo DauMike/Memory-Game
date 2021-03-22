@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>Miguel Says!</h1>
+    
+    <p>
+      Welcome to my game! Are you ready? I hope you are because this will be entertaining to watch! Remember you only have three lives to get the pattern right.
+    </p>
+    <p>
+      You can play the game by hitting start or you can use the buttons to remember old times.
+    </p>
+    <button id = "startBtn" onclick="startGame()">
+      Start
+    </button>
+    <button id = "stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+    
+    <div id = "gameButtonArea">
+      <button id = "button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)">
+      <img src="https://cdn.glitch.com/d166a433-77d1-4269-9d3a-6ab7152feb46%2FA.png?1616392141311" height="150px"/>
+      </button>
+      <button id = "button2" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)">
+      <img src="https://cdn.glitch.com/d166a433-77d1-4269-9d3a-6ab7152feb46%2FUp.png?1616392153633" height="150px" />
+      </button>
+      <button id = "button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)">
+      <img src="https://cdn.glitch.com/d166a433-77d1-4269-9d3a-6ab7152feb46%2FDown.png?1616392136992" height="150px" />
+      </button>
+      <button id = "button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)">
+      <img src="https://cdn.glitch.com/d166a433-77d1-4269-9d3a-6ab7152feb46%2FLeft.png?1616392145732" height="150px" />
+      </button>
+      <button id = "button5" onmousedown="startTone(5)" onmouseup="stopTone()" onclick="guess(5)">
+      <img src="https://cdn.glitch.com/d166a433-77d1-4269-9d3a-6ab7152feb46%2FRight.png?1616392149528" height="150px" />
+      </button>
+    </div>
+
+  </body>
+</html>
