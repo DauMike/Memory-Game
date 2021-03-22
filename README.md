@@ -45,29 +45,20 @@ Here's a walkthrough of implemented user stories:
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-I used stackoverflow, computerhope and w3schools. I also used an online pitch detector to figure out the notes I wanted.
-
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-The biggest one was implementing the images in the buttons because when I would write the source for the image as "assets/file-name.png" would not work and it continue giving me problems until I decided to use the url I used to grab the images from. Then after that was the problem of resizing that I thought I could do it in the CSS but it did not work so I went onto computerhope.com which basically said I could use an attribute inside the **<img>** tag.
-
-
 I used stackoverflow, computerhope and w3schools.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-The biggest one was implementing the images in the buttons because when I would write the source for the image as "assets/file-name.png" would not work and it continue giving me problems until I decided to use the url I used to grab the images from. Then after that was the problem of resizing that I thought I could do it in the CSS but it did not work so I went onto computerhope.com
-which basically said I could use an attribute inside the **<img>** tag.
-
+The biggest problem I encountered was when it came to the point of adding images to the buttons. I went onto read some sites to see what would be the best way to do so, and there is ways to make it through CSS and HTML. So, I had to decide which one I wanted to try, I then went to implement it and it did not work I try many ways and I even went to the other option and neither worked. I had stopped trying since I did not know what could have gone wrong, and then it came to me that maybe was how I was putting the source ("assets/file-name.png") that was not working so I had to try a different way, so I took the url where I got the images from and added that in the source and it did work. However, it got me a bit afraid on how complicated it could be if I wanted a more complex sound out of the buttons. Then I had to address the problem of resizing the image since it was bigger than expected and it was not aligned with the button, I read I could resize it with CSS and tried it and failed, so I went to adding another attribute to the image to resize it and it worked perfectly.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-How all these could work and make it so you can have people login into their accounts to play so it records their best and have like a scoretable so people can compete.
-Making it as a competitive game with more information behind it.
+How these classes and attributes can fit in together to do a well done website for a big company? Also, how much the code would change if we implemented like a database with login information, so the user would have their account and play online in a competitive way or even communicate while they playing. Furthermore, I bet there is more that meets the eye when it comes to programming a website how many more attributes a single thing in a website can hold, how many can make the code easier and efficient?
+And what would be the best practices at the time of making it? Should I focus first in the how it looks and meaning program the HTML and the CSS together and then how it works behind it, with the Javascript.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-I would probably try to implement the adding a more complex sound to the button, since I do not only need to find the sound but also update certain functions so it works as intended.
-As well I would try to have like a counter of how many tries people have played the game, with how many wins and loses in total, and a counter for the mistakes as well.
+I would probably try to implement the adding a more complex sound to the button, since I do not only need to find the sound but also update certain functions so it works as intended. As well I would try to have like a counter of how many tries people have played the game, with how many wins and loses in total, and a counter for the mistakes as well. I would love to implement a way to enter the players name and record his or her try into the page so whenever someone visits again can try to beat that score.
 
 
 
