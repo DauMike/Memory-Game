@@ -44,7 +44,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I used stackoverflow, computerhope and w3schools.
+I used stackoverflow, computerhope and w3schools. I also used an online pitch detector to figure out the notes I wanted.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 The biggest one was implementing the images in the buttons because when I would write the source for the image as "assets/file-name.png" would not work and it continue giving me problems until I decided to use the url I used to grab the images from. Then after that was the problem of resizing that I thought I could do it in the CSS but it did not work so I went onto computerhope.com which basically said I could use an attribute inside the **<img>** tag.
