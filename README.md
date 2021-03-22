@@ -44,16 +44,28 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 I used stackoverflow, computerhope and w3schools. I also used an online pitch detector to figure out the notes I wanted.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 The biggest one was implementing the images in the buttons because when I would write the source for the image as "assets/file-name.png" would not work and it continue giving me problems until I decided to use the url I used to grab the images from. Then after that was the problem of resizing that I thought I could do it in the CSS but it did not work so I went onto computerhope.com which basically said I could use an attribute inside the **<img>** tag.
 
+
+I used stackoverflow, computerhope and w3schools.
+
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
+The biggest one was implementing the images in the buttons because when I would write the source for the image as "assets/file-name.png" would not work and it continue giving me problems until I decided to use the url I used to grab the images from. Then after that was the problem of resizing that I thought I could do it in the CSS but it did not work so I went onto computerhope.com
+which basically said I could use an attribute inside the **<img>** tag.
+
+
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 How all these could work and make it so you can have people login into their accounts to play so it records their best and have like a scoretable so people can compete.
 Making it as a competitive game with more information behind it.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I would probably try to implement the adding a more complex sound to the button, since I do not only need to find the sound but also update certain functions so it works as intended.
 As well I would try to have like a counter of how many tries people have played the game, with how many wins and loses in total, and a counter for the mistakes as well.
 
