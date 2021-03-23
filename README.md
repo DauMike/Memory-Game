@@ -39,7 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![] <img src="Losing-Game.gif" />
+First showing the buttons and some pattern, then stopping it and starting a new pattern to lose it.
+<img src="Losing-Game.gif" />
+
+Secind showing game again with different pattern and how the buttons react to it and then winning the game.
+<img src="" />
 
 
 ## Reflection Questions
