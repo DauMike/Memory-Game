@@ -49,7 +49,7 @@ Second time showing the game again with different pattern and how the buttons re
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-I used stackoverflow, computerhope and w3schools.
+I used stackoverflow, computerhope and w3schools. I also used an online pitch detector to figure out the notes I wanted.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
