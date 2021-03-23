@@ -42,8 +42,8 @@ Here's a walkthrough of implemented user stories:
 First showing the buttons and some pattern, then stopping it and starting a new pattern to lose it.
 <img src="Losing-Game.gif" />
 
-Secind showing game again with different pattern and how the buttons react to it and then winning the game.
-<img src="" />
+Second time showing the game again with different pattern and how the buttons react to it, as well how it speeds up with every round that passes, and then winning the game.
+<img src="Winning-Game.gif" />
 
 
 ## Reflection Questions
